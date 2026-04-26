@@ -1,4 +1,3 @@
-// ========== MiscMath.cpp ==========
 #include "MiscMath.h"
 #include "LUDecomposition.h"
 

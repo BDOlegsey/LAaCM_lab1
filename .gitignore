@@ -1,1 +1,4 @@
 /.vscode
+/run_tests.exe
+/lin_algebra.exe
+/.gitignore

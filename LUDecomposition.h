@@ -1,4 +1,3 @@
-// ========== LUDecomposition.h ==========
 #ifndef LU_DECOMPOSITION_H
 #define LU_DECOMPOSITION_H
 
